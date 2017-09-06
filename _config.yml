@@ -4,11 +4,11 @@
 
 # Site
 title: Kris's Blog
-subtitle:
-description:
+subtitle: 
+description: 简简单单 口袋空空
 author: Kris Liao
-language:
-timezone:
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
